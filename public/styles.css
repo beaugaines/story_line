@@ -1,0 +1,21 @@
+body {
+  padding: 2rem;
+}
+
+h1 {
+  color: red;
+}
+
+.inline {
+  display: inline;
+}
+
+.story-part {
+  display: inline-block;
+  width: 10rem;
+  height: 4rem;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #efefef;
+  border: 2px solid yellow;
+}
